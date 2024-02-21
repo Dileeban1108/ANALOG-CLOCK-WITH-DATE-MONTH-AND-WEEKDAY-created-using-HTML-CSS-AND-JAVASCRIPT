@@ -1,4 +1,4 @@
-Description:
+<b>Description:</b>
 This project is an analog clock implemented in JavaScript, HTML, and CSS. It displays the current time along with the date, month, and year. The clock provides a visual representation of the current time using hour, minute, and second hands, while also showing the full date information.
 
 Features:
